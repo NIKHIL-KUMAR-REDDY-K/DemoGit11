@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "4iuFL9BW4dFbvVJD/o3HGgelaKgdpCgT7UWQnIPkVCtm/0NNMzizCSI2Piqn/vLNT1lI1IcbiQw2Ledkr+/xLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitDemo123\\Branch2\\DemoGit11\\QueueProgram\\QueueProgram.csproj",
+=======
+  "dgSpecHash": "c9dVExhgSk4oPnKCSx4d4b4wmVQh1SgYkebEGzlBKyevHfFA6fO0qZ1Nx7+nUk7kmzHItMvVxhC+pzg4tM9AYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitDemo123\\Branch1\\DemoGit11\\QueueProgram\\QueueProgram.csproj",
+>>>>>>> origin/Branch1
   "expectedPackageFiles": [],
   "logs": []
 }
